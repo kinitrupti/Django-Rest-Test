@@ -1,4 +1,4 @@
-# rest_api
+# Django-Rest-Test
 A simple REST API in Django and Python3 for employees. Supports GET, POST, PUT, DEL and more. This app is purely to understand how data can be parsed, fetched from any live website and operations can be performed.
 
 ### Basic Installation
