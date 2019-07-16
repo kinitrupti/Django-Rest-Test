@@ -5,7 +5,7 @@ A simple REST API in Django and Python3 for employees. Supports GET, POST, PUT, 
 
 1. Clone the git repository.
 ```bash
-$ git clone 
+$ git clone https://github.com/kinitrupti/Django-Rest-Test
 ```
 
 2. Go to the directory and install the necessary libraries.
